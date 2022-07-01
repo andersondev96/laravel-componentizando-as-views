@@ -2,12 +2,7 @@
 
 # Laravel - Acelerando o desenvolvimento das suas views com Components e Tailwind CSS
 
-Opa, e ai?! 
-
-E ai galera? Nessa aula vamos aprender como utilizar os Components do Laravel juntamente com o Tailwind CSS para acelerar o desenvolvimento de novas views. Entraremos um pouco mais a fundo de que tipo de variações vocês podem criar em cada componentes para que você tenha por exemplo 1 componente com vários estilos / tipos.
-
-Então bora?
-
+Nesse projeto vamos aprender como utilizar os Components do Laravel juntamente com o Tailwind CSS para acelerar o desenvolvimento de novas views. Entraremos um pouco mais a fundo de que tipo de variações vocês podem criar em cada componentes para que você tenha por exemplo um componente com vários estilos / tipos.
 ## Pré-requisitos
 
 - PHP 7.3+
@@ -17,9 +12,9 @@ Então bora?
 ## Como executar essa aplicação?
 
 ```sh
-git clone git@github.com:rocketseat-experts-club/laravel-acelerando-dev-views-tailwindcss-components-2021-09-03.git
+git clone git@github.com:andersondev96/laravel-componentizando-as-views.git
 
-cd laravel-acelerando-dev-views-tailwindcss-components-2021-09-03.git
+cd laravel-componentizando-as-views.git
 
 composer install -vv
 
@@ -38,9 +33,3 @@ php artisan serve
 * [Using Laravel View Components](https://beyondco.de/blog/using-laravel-view-components)
 * [Blade Component in Laravel 7](https://medium.com/@shrijan00003/blade-component-in-laravel-7-e80849d01af)
 * [DRY Up Your HTML With Laravel 7 Blade Components](https://www.twilio.com/blog/dont-repeat-yourself-html-laravel-7-blade-components-php)
-
-## Expert
-| [<img src="https://avatars.githubusercontent.com/u/671670?v=4" width="75px;"/>](https://github.com/patrickmaciel) |
-| :-: |
-|[Patrick Maciel](https://github.com/patrickmaciel)|
-
